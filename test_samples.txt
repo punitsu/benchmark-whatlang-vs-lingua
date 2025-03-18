@@ -1,0 +1,76 @@
+en|The quick brown fox jumps over the lazy dog. This sentence contains all the letters in the English alphabet.
+en|In a shocking turn of events, researchers discovered a new species of deep-sea creatures that can survive extreme pressure.
+en|Despite widespread criticism, the government proceeded with its controversial economic plan.
+en|The ancient manuscript, discovered in a remote cave, contained previously unknown historical accounts.
+es|El veloz zorro marrón salta sobre el perro perezoso. Esta oración contiene palabras comunes en español.
+es|Los científicos anunciaron ayer el descubrimiento de una nueva vacuna contra la enfermedad tropical.
+es|La economía española mostró signos de recuperación durante el último trimestre del año pasado.
+es|Las tradiciones culturales de la región se mantienen vivas gracias al esfuerzo de las comunidades locales.
+fr|Le renard brun rapide saute par-dessus le chien paresseux. Cette phrase contient des mots courants en français.
+fr|Les manifestations contre la réforme des retraites ont paralysé le centre-ville pendant plusieurs heures.
+fr|La cuisine française est reconnue mondialement pour sa diversité et sa richesse gastronomique.
+fr|Le président a annoncé de nouvelles mesures pour lutter contre le changement climatique.
+de|Der schnelle braune Fuchs springt über den faulen Hund. Dieser Satz enthält gebräuchliche deutsche Wörter.
+de|Die Bundesregierung hat gestern neue Maßnahmen zur Bekämpfung der Wirtschaftskrise angekündigt.
+de|Wissenschaftler der Universität München haben eine bahnbrechende Entdeckung im Bereich der Quantenphysik gemacht.
+de|Das traditionelle Oktoberfest in München zieht jedes Jahr Millionen von Besuchern aus der ganzen Welt an.
+it|La veloce volpe marrone salta sopra il cane pigro. Questa frase contiene parole comuni in italiano.
+it|Il governo italiano ha approvato nuove misure per sostenere le piccole e medie imprese.
+it|La squadra nazionale di calcio ha vinto il campionato europeo dopo una partita emozionante.
+it|Gli archeologi hanno scoperto un'antica città romana sepolta sotto le ceneri del Vesuvio.
+pt|A rápida raposa marrom pula sobre o cachorro preguiçoso. Esta frase contém palavras comuns em português.
+pt|O governo brasileiro anunciou novos investimentos em infraestrutura e educação.
+pt|Os cientistas descobriram uma nova espécie de plantas na floresta amazônica.
+pt|A economia portuguesa apresentou sinais de recuperação no último trimestre.
+nl|De snelle bruine vos springt over de luie hond. Deze zin bevat veelgebruikte Nederlandse woorden.
+nl|De Nederlandse regering heeft nieuwe maatregelen aangekondigd om klimaatverandering tegen te gaan.
+nl|Wetenschappers van de Universiteit Amsterdam hebben een belangrijke ontdekking gedaan op het gebied van virologie.
+nl|De traditionele windmolens zijn een belangrijk symbool van het Nederlandse landschap.
+ru|Быстрая коричневая лиса прыгает через ленивую собаку. Это предложение содержит распространенные русские слова.
+ru|Российские ученые объявили о разработке новой вакцины против гриппа.
+ru|Экономика страны показала признаки восстановления в последнем квартале.
+ru|Традиционные культурные фестивали привлекают множество туристов в регион.
+ja|素早い茶色のキツネは怠け者の犬を飛び越えます。この文には一般的な日本語の単語が含まれています。
+ja|日本政府は昨日、新しい経済政策を発表しました。この政策は中小企業を支援することを目的としています。
+ja|東京の科学者たちは、再生可能エネルギーの分野で画期的な発見をしました。
+ja|伝統的な日本料理は世界中で高く評価されており、多くの外国人観光客を魅了しています。
+zh|快速的棕色狐狸跳过懒狗。这个句子包含常用的中文词汇。
+zh|中国政府昨天宣布了新的经济政策，旨在支持小型和中型企业。
+zh|北京的科学家们在可再生能源领域取得了突破性发现。
+zh|传统的中国节日吸引了众多游客前来参观。
+ko|빠른 갈색 여우가 게으른 개를 뛰어 넘습니다. 이 문장에는 일반적인 한국어 단어가 포함되어 있습니다.
+ko|한국 정부는 어제 새로운 경제 정책을 발표했습니다. 이 정책은 중소기업을 지원하는 것을 목표로 합니다.
+ko|서울의 과학자들은 재생 에너지 분야에서 획기적인 발견을 했습니다.
+ko|전통적인 한국 요리는 전 세계적으로 높이 평가되며 많은 외국인 관광객을 매료시킵니다.
+ar|الثعلب البني السريع يقفز فوق الكلب الكسول. تحتوي هذه الجملة على كلمات عربية شائعة.
+ar|أعلنت الحكومة العربية أمس عن سياسة اقتصادية جديدة تهدف إلى دعم الشركات الصغيرة والمتوسطة.
+ar|اكتشف العلماء في القاهرة اكتشافًا رائدًا في مجال الطاقة المتجددة.
+ar|تجذب المهرجانات الثقافية التقليدية العديد من السياح إلى المنطقة.
+hi|तेज भूरी लोमड़ी आलसी कुत्ते के ऊपर से कूदती है। इस वाक्य में हिंदी के सामान्य शब्द शामिल हैं।
+hi|भारत सरकार ने कल एक नई आर्थिक नीति की घोषणा की, जिसका उद्देश्य छोटे और मध्यम आकार के व्यवसायों का समर्थन करना है।
+hi|दिल्ली के वैज्ञानिकों ने अक्षय ऊर्जा के क्षेत्र में एक अभूतपूर्व खोज की है।
+hi|पारंपरिक भारतीय त्योहार क्षेत्र में कई पर्यटकों को आकर्षित करते हैं।
+tr|Hızlı kahverengi tilki tembel köpeğin üzerinden atlar. Bu cümle yaygın Türkçe kelimeler içerir.
+tr|Türk hükümeti dün küçük ve orta ölçekli işletmeleri desteklemeyi amaçlayan yeni bir ekonomik politika açıkladı.
+tr|İstanbul'daki bilim insanları yenilenebilir enerji alanında çığır açan bir keşif yaptı.
+tr|Geleneksel Türk festivalleri bölgeye çok sayıda turist çekiyor.
+vi|Con cáo nâu nhanh nhẹn nhảy qua con chó lười biếng. Câu này chứa các từ tiếng Việt phổ biến.
+vi|Chính phủ Việt Nam hôm qua đã công bố chính sách kinh tế mới nhằm hỗ trợ các doanh nghiệp vừa và nhỏ.
+vi|Các nhà khoa học ở Hà Nội đã có một khám phá đột phá trong lĩnh vực năng lượng tái tạo.
+vi|Các lễ hội văn hóa truyền thống thu hút nhiều du khách đến khu vực.
+sv|Den snabba bruna räven hoppar över den lata hunden. Denna mening innehåller vanliga svenska ord.
+sv|Svenska regeringen tillkännagav igår en ny ekonomisk politik som syftar till att stödja små och medelstora företag.
+sv|Forskare i Stockholm har gjort ett banbrytande upptäckt inom förnybar energi.
+sv|Traditionella svenska festivaler lockar många turister till regionen.
+pl|Szybki brązowy lis przeskakuje nad leniwym psem. To zdanie zawiera powszechne polskie słowa.
+pl|Polski rząd ogłosił wczoraj nową politykę gospodarczą mającą na celu wspieranie małych i średnich przedsiębiorstw.
+pl|Naukowcy z Warszawy dokonali przełomowego odkrycia w dziedzinie energii odnawialnej.
+pl|Tradycyjne polskie festiwale przyciągają wielu turystów do regionu.
+fi|Nopea ruskea kettu hyppää laiskan koiran yli. Tämä lause sisältää yleisiä suomalaisia sanoja.
+fi|Suomen hallitus ilmoitti eilen uudesta talouspolitiikasta, jonka tavoitteena on tukea pieniä ja keskisuuria yrityksiä.
+fi|Helsingin tutkijat ovat tehneet uraauurtavan löydön uusiutuvan energian alalla.
+fi|Perinteiset suomalaiset festivaalit houkuttelevat alueelle paljon matkailijoita.
+gr|Η γρήγορη καφέ αλεπού πηδάει πάνω από το τεμπέλικο σκυλί. Αυτή η πρόταση περιέχει κοινές ελληνικές λέξεις.
+gr|Η ελληνική κυβέρνηση ανακοίνωσε χθες μια νέα οικονομική πολιτική με στόχο την υποστήριξη των μικρών και μεσαίων επιχειρήσεων.
+gr|Επιστήμονες στην Αθήνα έκαναν μια πρωτοποριακή ανακάλυψη στον τομέα των ανανεώσιμων πηγών ενέργειας.
+gr|Τα παραδοσιακά ελληνικά φεστιβάλ προσελκύουν πολλούς τουρίστες στην περιοχή.
