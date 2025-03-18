@@ -26,3 +26,39 @@ go get -u github.com/pemistahl/lingua-golang
 ```bash
 go run benchmark-whatlang-vs-lingua
 ```
+
+## Adding Test Cases
+
+Test cases are stored in `test_samples.txt` in the following format:
+```
+language_code|text_sample
+```
+
+For example:
+```
+en|The quick brown fox jumps over the lazy dog.
+es|El veloz zorro marrón salta sobre el perro perezoso.
+```
+
+The language code should be in ISO 639-1 format (e.g., `en` for English, `es` for Spanish, etc.). Each test case should be on a new line, with the language code and text sample separated by a pipe character (`|`).
+
+Currently supported language codes:
+- `en` - English
+- `es` - Spanish
+- `fr` - French
+- `de` - German
+- `it` - Italian
+- `pt` - Portuguese
+- `nl` - Dutch
+- `ru` - Russian
+- `ja` - Japanese
+- `zh` - Chinese
+- `ko` - Korean
+- `ar` - Arabic
+- `hi` - Hindi
+- `tr` - Turkish
+- `vi` - Vietnamese
+- `sv` - Swedish
+- `pl` - Polish
+- `fi` - Finnish
+- `gr` - Greek
